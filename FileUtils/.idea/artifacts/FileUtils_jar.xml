@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileUtils:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileUtils</output-path>
+    <root id="archive" name="FileUtils.jar">
+      <element id="module-output" name="FileUtils_main" />
+    </root>
+  </artifact>
+</component>
